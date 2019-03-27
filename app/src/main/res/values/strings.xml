@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI490-Lab_05</string>
+    <string name="sharedPref">Shared Preference</string>
+    <string name="tutorialPoint">Tutorials Point</string>
 </resources>
